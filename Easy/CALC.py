@@ -26,4 +26,4 @@ while t>0:
 #     #     x+=1
 #     print(amt)
 #     t-=1
-
+#ddgegegeg
